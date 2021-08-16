@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... search "sh6210"
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zobay&count_private=true&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sh6210&count_private=true&show_icons=true&theme=radical)
 ![](https://komarev.com/ghpvc/?username=sh6210&color=brightgreen)
