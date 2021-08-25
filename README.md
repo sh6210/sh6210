@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Vue js
 - 🤔 I’m looking for help with ...Open source countribution
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... shcse@hotmail.com
+- 📫 Reach me at: ... shcse@hotmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... search "sh6210"
+- ⚡ Fun fact: ...To find me at linkedin, facebook, twitter, github, stackoverflow platform search "sh6210 <platform_name>"
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sh6210&count_private=true&show_icons=true&theme=radical)
